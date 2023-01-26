@@ -1,0 +1,122 @@
+.add-new-password {
+  background-color: #5763a5;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.password-manager-img {
+  height: 300px;
+  width: 300px;
+}
+
+.form-card {
+  background-color: #454f84;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.add-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.add-btn {
+  height: 40px;
+  width: 40px;
+}
+
+.input-image {
+  height: 20px;
+  width: 20px;
+}
+
+.input {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 30px;
+  padding: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  margin-right: 1px;
+}
+.input-card {
+  display: flex;
+  align-items: center;
+}
+.input-row {
+  height: 30px;
+}
+
+.count-container {
+  display: flex;
+  align-items: center;
+}
+
+.count-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+  border: solid;
+  border-width: 1px;
+  width: 40px;
+  height: 30px;
+  border-radius: 15px;
+}
+
+.bg-container {
+  padding: 10px;
+  background-color: #5763a5;
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
+
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.search-icon-card {
+  background-color: #ffffff;
+  height: 30px;
+  width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-box {
+  height: 32px;
+  width: 250px;
+}
+
+.search-card {
+  display: flex;
+  align-items: center;
+}
+
+.top-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.line {
+  background-color: #c3caea;
+}
+
+.show {
+  text-align: right;
+}
+
+.btn {
+  background-color: transparent;
+  border-style: none;
+  color: #f8fafc;
+}
